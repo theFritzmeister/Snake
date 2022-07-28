@@ -1,1 +1,3 @@
 # Snake
+
+Try to avoid hitting the corners while the snake is getting bigger and faster... 
